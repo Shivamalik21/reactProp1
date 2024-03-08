@@ -1,0 +1,28 @@
+
+
+#ulList li:hover{
+ cursor: pointer;
+ color: blue;
+
+}
+#btn{
+    color: white;
+    height: 6vh;
+    width: 8vw;
+    border: none;
+    border-radius: 15px;
+    background-color: blue;
+}
+#btn:hover{
+  cursor: pointer;
+  
+ background-color: red;
+}
+
+h1::before{
+  content: url(./../../public/logo.svg); 
+  
+}
+h1{
+  display: flex;
+}
