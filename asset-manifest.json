@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rectProp1/static/css/main.42918e48.css",
-    "main.js": "/rectProp1/static/js/main.6b2be32d.js",
-    "static/js/453.31853517.chunk.js": "/rectProp1/static/js/453.31853517.chunk.js",
-    "static/media/logo.svg": "/rectProp1/static/media/logo.395e1c2e0ce95b21d52d.svg",
-    "index.html": "/rectProp1/index.html",
-    "main.42918e48.css.map": "/rectProp1/static/css/main.42918e48.css.map",
-    "main.6b2be32d.js.map": "/rectProp1/static/js/main.6b2be32d.js.map",
-    "453.31853517.chunk.js.map": "/rectProp1/static/js/453.31853517.chunk.js.map"
+    "main.css": "/reactProp1/static/css/main.f2f44f07.css",
+    "main.js": "/reactProp1/static/js/main.da4bba3b.js",
+    "static/js/453.31853517.chunk.js": "/reactProp1/static/js/453.31853517.chunk.js",
+    "static/media/logo.svg": "/reactProp1/static/media/logo.395e1c2e0ce95b21d52d.svg",
+    "index.html": "/reactProp1/index.html",
+    "main.f2f44f07.css.map": "/reactProp1/static/css/main.f2f44f07.css.map",
+    "main.da4bba3b.js.map": "/reactProp1/static/js/main.da4bba3b.js.map",
+    "453.31853517.chunk.js.map": "/reactProp1/static/js/453.31853517.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42918e48.css",
-    "static/js/main.6b2be32d.js"
+    "static/css/main.f2f44f07.css",
+    "static/js/main.da4bba3b.js"
   ]
 }
